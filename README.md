@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋 I'm Dhruvraj  </h1>
+<h2 align='center'> Potential Software Developer with keen interests in AI, ML, RL, and Data Science. </h2>
 
 <!--
 **dhruvraj508/dhruvraj508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
