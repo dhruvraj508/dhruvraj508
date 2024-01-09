@@ -2,7 +2,14 @@
 <h2 align='center'> Potential Software Developer with keen interests in AI, ML, RL, and Data Science. </h2>
 
 - 🌱 I’m currently attending the last year of my Bachelor's in Computer Science at the University of Alberta.
-- 🔭 I’m currently working on a Machine Learning classification project involving image recognition.
+- 📚 I'm currently taking six courses in my last semester:
+  - CMPUT 466: Machine Learning
+  - CMPUT 340: Introduction to Numerical Methods
+  - INT D 307: Inspired to Lead: Your Leadership Canvas
+  - INT D 280: Introduction to Interdisciplinary Mountain Studies
+  - HECOL 211: Human Ecology
+  - PHIL 120: Symbolic Logic I
+- 🔭 I’m currently working on developing a Full Stack Web Application (A clone of AirBnb).
 - 📫 How to reach me: dhruvraj@ualberta.ca
 - ⚡ Fun fact: I love to game in my free time (a lot of Valorant xd).
 <!--
