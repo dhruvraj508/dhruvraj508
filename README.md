@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on developing a Full Stack Web Application (A clone of AirBnb).
   - I have several projects some of which include:
   - A full-stack Social Media Application
+  - A full-stack android game application
   - Machine Learning Classification Project
-  - A full-stack android game application. 
 - 📫 How to reach me: dhruvraj@ualberta.ca
 - ⚡ Fun fact: I love to game in my free time (a lot of Valorant xd).
 <!--
